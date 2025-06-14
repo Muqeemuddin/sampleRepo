@@ -1,11 +1,7 @@
 package org.example;
 
-import org.example.easy.*;
-import org.example.medium.TowerOfHanoi;
-import org.example.recursion.*;
 import org.example.slidingWindow.*;
 
-import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
